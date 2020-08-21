@@ -1,0 +1,28 @@
+{
+  "name": "insomnia-plugin-s3-presigned-link",
+  "version": "1.0.0",
+  "main": "main.js",
+  "insomnia": {
+    "name": "s3-presigned-link",
+    "description": "Generate S3 presigned link"
+  },
+  "dependencies": {
+    "moment": "^2.27.0",
+    "js-sha256": "^0.9.0"
+  },
+  "devDependencies": {},
+  "description": "Insomnia plugin: S3 presigned link generation.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepeshka/insomnia-plugin-s3-presigned-link.git"
+  },
+  "author": "peshka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepeshka/insomnia-plugin-s3-presigned-link/issues"
+  },
+  "homepage": "https://github.com/thepeshka/insomnia-plugin-s3-presigned-link#readme"
+}
