@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-s3-presigned-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "insomnia": {
     "name": "s3-presigned-link",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/thepeshka/insomnia-plugin-s3-presigned-link.git"
   },
   "author": "peshka",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/thepeshka/insomnia-plugin-s3-presigned-link/issues"
   },
