@@ -71,7 +71,7 @@ module.exports.templateTags = [{
                 {"displayName": "Africa (Cape Town)", "value": "af-south-1"},
                 {"displayName": "Asia Pacific (Hong Kong)", "value": "ap-east-1"},
                 {"displayName": "Asia Pacific (Mumbai)", "value": "ap-south-1"},
-                {"displayName": "Asia Pacific (Osaka-Local)", "value": "ap-northeast-3	"},
+                {"displayName": "Asia Pacific (Osaka-Local)", "value": "ap-northeast-3"},
                 {"displayName": "Asia Pacific (Seoul)", "value": "ap-northeast-2"},
                 {"displayName": "Asia Pacific (Singapore)", "value": "ap-southeast-1"},
                 {"displayName": "Asia Pacific (Sydney)", "value": "ap-southeast-2"},
