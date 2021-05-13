@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-s3-presigned-link",
-  "version": "1.0.2",
-  "main": "main.js",
+  "version": "1.0.4",
+  "main": "src/index.js",
   "insomnia": {
     "name": "s3-presigned-link",
     "description": "Generate S3 presigned link"
